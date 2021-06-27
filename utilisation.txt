@@ -1,0 +1,13 @@
+###################################################
+########      URL SNIPER BY BRASKOV     ###########
+###################################################
+
+
+bs!url [url que vous souhaitez sniper]       -=-    pour débuter le snipe d'une url
+bs!stop                                      -=-    pour stopper le snipe de l'url               
+
+
+
+
+
+|Credentials 2021|
